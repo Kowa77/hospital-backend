@@ -1,0 +1,9 @@
+nodemon //recarga el servidor automaticamente al hacer cambios 
+
+
+    COMANDO                  DESCRIPCION
+-------------------------------------------------------------------------------------------------------------------------
+		    |	Configurado en package.json 
+ npm run start:dev  |   
+		    |   'start:dev": "nodemon index.js'
+-------------------------------------------------------------------------------------------------------------------------
